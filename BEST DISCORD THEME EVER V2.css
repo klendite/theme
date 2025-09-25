@@ -165,7 +165,7 @@ body {
     --bg-overlay-hover: unset;
     --bg-overlay-active: unset;
 
-    --background-url: url("https://i.imgur.com/hum1kpV.gif"); /* link to a gif or image */ 
+    --background-url: url(""); /* link to a gif or image */ 
 
     position: relative;
     border-radius: 15px;
